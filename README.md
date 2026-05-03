@@ -11,7 +11,7 @@ Layihə çərçivəsində 2.3M ₼ həcmində satış datasının təmizlənməs
 ## 👥 Komanda və Öhdəliklər (Team & Responsibilities)
 Layihənin uğuru hər bir komanda üzvünün öz sahəsindəki peşəkar töhfəsi sayəsində mümkün olmuşdur:
 
-* **Ramal Bəy** – *Data Pre-processing (Excel)*
+* **Ramal Bəy** – *Data Pre-processing (Excel)* https://www.linkedin.com/in/ramalkazimov/
     * Missing data (çatışmayan məlumatlar) doldurulması.
     * Outliers (anomaliyaların) təmizlənməsi və sütunların formatlanması.
 * **Şəbnəm Xanım** – *Data Modeling & SQL Analysis (SQL Server)* https://github.com/shabnamalakbarova
