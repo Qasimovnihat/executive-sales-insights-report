@@ -11,10 +11,10 @@ Layihə çərçivəsində 2.3M ₼ həcmində satış datasının təmizlənməs
 ## 👥 Komanda və Öhdəliklər (Team & Responsibilities)
 Layihənin uğuru hər bir komanda üzvünün öz sahəsindəki peşəkar töhfəsi sayəsində mümkün olmuşdur:
 
-* **Ramal Bəy** – *Data Pre-processing (Excel)* https://www.linkedin.com/in/ramalkazimov/
+* **Ramal Kazımov** – *Data Pre-processing (Excel)* https://www.linkedin.com/in/ramalkazimov/
     * Missing data (çatışmayan məlumatlar) doldurulması.
     * Outliers (anomaliyaların) təmizlənməsi və sütunların formatlanması.
-* **Şəbnəm Xanım** – *Data Modeling & SQL Analysis (SQL Server)* https://github.com/shabnamalakbarova
+* **Şəbnəm Ələkbərova** – *Data Modeling & SQL Analysis (SQL Server)* https://github.com/shabnamalakbarova
     * Təmizlənmiş datanın SQL-ə miqrasiyası.
     * Power BI üçün sxemlərin Star Schema qurulması və datanın optimallaşdırılması.
 * **Nihat Qasımov** – *Data Visualization & BI (Power BI)* https://www.linkedin.com/in/nihat--qasimov/
